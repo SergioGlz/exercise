@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Exercise</string>
+
+    <!-- Menu -->
+    <string name="google_lbl">Google</string>
+    <string name="buttons_lbl">Buttons</string>
+    <string name="github_lbl">GitHub</string>
+    
+    <!-- WebView Fragment -->
+    <string name="webview_url">https://www.google.com/</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Buttons Fragment -->
+    <string name="toast_msg">"This is a toast!"</string>
+    <string name="alert_title">"This is an Alert!"</string>
+    <string name="alert_msg">"This is the alert message."</string>
+    <string name="toast_btn_lbl">Toast</string>
+    <string name="alert_btn_lbl">Alert</string>
+
+    <!-- GitHub Fragment -->
+    <string name="error_msg">Connection Error</string>
+    <string name="accept">Accept</string>
+</resources>
